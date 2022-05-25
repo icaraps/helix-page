@@ -1,0 +1,109 @@
+{
+  "renderer/_default.page.client.jsx": {
+    "file": "assets/renderer/_default.page.client.jsx.1d46d6b4.js",
+    "src": "renderer/_default.page.client.jsx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "dynamicImports": [
+      "pages/catch-all.page.jsx",
+      "renderer/_error.page.jsx",
+      "renderer/_default.page.server.jsx",
+      "pages/catch-all.page.route.js"
+    ],
+    "assets": [
+      "assets/adobe.bd4b6c78.webp"
+    ]
+  },
+  "pages/catch-all.page.jsx": {
+    "file": "assets/catch-all.page.27fb295d.js",
+    "src": "pages/catch-all.page.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "renderer/_default.page.client.jsx"
+    ],
+    "dynamicImports": [
+      "renderer/_default.page.client.jsx",
+      "../../components/text/index.jsx",
+      "components/core/container/index.jsx",
+      "components/core/separator/index.jsx",
+      "components/core/teaser/index.jsx",
+      "components/core/text/index.jsx",
+      "components/core/title/index.jsx",
+      "components/CustomComponentNotFound/index.jsx"
+    ]
+  },
+  "renderer/_error.page.jsx": {
+    "file": "assets/_error.page.a5768bb4.js",
+    "src": "renderer/_error.page.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "renderer/_default.page.client.jsx"
+    ]
+  },
+  "renderer/_default.page.server.jsx": {
+    "file": "assets/_default.page.server.2de2bce2.js",
+    "src": "renderer/_default.page.server.jsx",
+    "isDynamicEntry": true
+  },
+  "pages/catch-all.page.route.js": {
+    "file": "assets/catch-all.page.route.c144ffdb.js",
+    "src": "pages/catch-all.page.route.js",
+    "isDynamicEntry": true
+  },
+  "../../components/text/index.jsx": {
+    "file": "assets/index.871c4501.js",
+    "src": "../../components/text/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "renderer/_default.page.client.jsx"
+    ]
+  },
+  "components/core/container/index.jsx": {
+    "file": "assets/index.2b77a9b4.js",
+    "src": "components/core/container/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "renderer/_default.page.client.jsx"
+    ]
+  },
+  "components/core/separator/index.jsx": {
+    "file": "assets/index.6d65fdef.js",
+    "src": "components/core/separator/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "renderer/_default.page.client.jsx"
+    ]
+  },
+  "components/core/teaser/index.jsx": {
+    "file": "assets/index.63530da9.js",
+    "src": "components/core/teaser/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "renderer/_default.page.client.jsx"
+    ]
+  },
+  "components/core/text/index.jsx": {
+    "file": "assets/index.7a4aa279.js",
+    "src": "components/core/text/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "renderer/_default.page.client.jsx"
+    ]
+  },
+  "components/core/title/index.jsx": {
+    "file": "assets/index.819ff89c.js",
+    "src": "components/core/title/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "renderer/_default.page.client.jsx"
+    ]
+  },
+  "components/CustomComponentNotFound/index.jsx": {
+    "file": "assets/index.507abb45.js",
+    "src": "components/CustomComponentNotFound/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "renderer/_default.page.client.jsx"
+    ]
+  }
+}

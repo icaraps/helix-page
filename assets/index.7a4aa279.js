@@ -1,0 +1,1 @@
+import{j as n}from"./renderer/_default.page.client.jsx.1d46d6b4.js";function i(e){const{textIsRich:o,text:t}=e;return o?(()=>n("div",{dangerouslySetInnerHTML:{__html:t}}))():(()=>n("div",{children:t}))()}export{i as default};
